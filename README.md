@@ -1,7 +1,10 @@
-<h3> Hi there 👋 </h3>
+### skills 
 
-##
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,ts,js,lua,docker,git,react&theme=dark" height="40" alt="technologies"/>
+</p>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=lua,cpp,ts,js,html,css,react,tailwind,nodejs,mysql" height="35" alt="technologies"/>
-</div>
+- **languages**: C/C++ • C# • TypeScript • JavaScript • Lua
+- **backend**: .NET • ASP.NET • Node.JS
+- **tools**: VSCode & Visual Studio • Docker
+- **others**: Reverse Engineering • IDA Pro • x64dbg
